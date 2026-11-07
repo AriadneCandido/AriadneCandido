@@ -9,7 +9,7 @@ Estou me descobrindo na tecnologia, busco aprender sempre mais e me desenvolver 
 - 🚀 Em busca de oportunidades para crescer profissionalmente e colaborar em projetos
 
 ## Vamos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![LinkedIn](www.linkedin.com/in/ariadne-cândido-santos-328331255)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AriadneCandido)
 
 ---
