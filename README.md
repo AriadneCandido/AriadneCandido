@@ -1,13 +1,12 @@
 # Olá, eu sou a Ariadne! 👋
 
-Sou estudante do terceiro período de **Tecnologia em Análise e Desenvolvimento de Sistemas** no IFNMG.  
+Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** no IFNMG.  
 Estou me descobrindo na tecnologia, busco aprender sempre mais e me desenvolver constantemente na área.
 
 ## Sobre mim
 
-- 🎓 Universitária dedicada em Análise e Desenvolvimento de Sistemas
-- 📚 Terceiro período
-- 🚀 Em busca de oportunidades para crescer profissionalmente e colaborar em projetos incríveis
+- 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas
+- 🚀 Em busca de oportunidades para crescer profissionalmente e colaborar em projetos
 
 ## Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
