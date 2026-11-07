@@ -6,7 +6,6 @@
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas • IFNMG
 </p>
----
 
 ### 🌷 Sobre mim
 
