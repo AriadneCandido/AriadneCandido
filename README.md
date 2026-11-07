@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="./banner.png" alt="Meu cantinho de estudos e tecnologia" width="100%">
+</p>
+
 <h1 align="center">Olá, eu sou a Ariadne! 👋</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas • IFNMG
 </p>
-
 ---
 
 ### 🌷 Sobre mim
