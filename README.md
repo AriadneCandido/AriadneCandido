@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="Meu cantinho de estudos e tecnologia" width="100%">
+<img width="2172" height="724" alt="banner png" src="https://github.com/user-attachments/assets/fd933028-a625-4635-b6c7-33564a93e0fc" /><p align="center">
 </p>
 
 <h1 align="center">Olá, eu sou a Ariadne! 👋</h1>
