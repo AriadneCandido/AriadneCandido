@@ -1,22 +1,40 @@
-# Olá, eu sou a Ariadne! 👋
+<h1 align="center">Olá, eu sou a Ariadne! 👋</h1>
 
-Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** no IFNMG.  
-Estou me descobrindo na tecnologia, busco aprender sempre mais e me desenvolver constantemente na área.
-
-## Sobre mim
-
-- 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas
-- 🚀 Em busca de oportunidades para crescer profissionalmente e colaborar em projetos
-
-## Vamos conectar?
-[![LinkedIn](www.linkedin.com/in/ariadne-cândido-santos-328331255)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AriadneCandido)
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas • IFNMG
+</p>
 
 ---
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
+### 🌷 Sobre mim
 
-<!---
-AriadneCandido/AriadneCandido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFNMG — Campus Araçuaí**, com interesse em desenvolvimento de software, inteligência artificial e análise de dados.
+
+Gosto de entender como as coisas funcionam e colocar em prática o que aprendo. Aqui compartilho meus projetos acadêmicos e experiências com programação.
+
+### 💻 Tecnologias que estudo
+
+**Linguagens**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+
+**Desenvolvimento web e mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+**Banco de dados e ferramentas**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌱 Explorando
+
+- Desenvolvimento de aplicações web e mobile.
+- Organização e análise de dados.
+- Inteligência artificial aplicada aos estudos e à resolução de problemas.
